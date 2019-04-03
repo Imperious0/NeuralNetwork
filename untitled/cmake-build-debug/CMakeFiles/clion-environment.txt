@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@D:\Alp\Programlar\C_C++_IDE\MinGW\mingw32
+Options: 
+
+Options:

@@ -1,0 +1,2 @@
+D:\Alp\Programlar\C_C++_IDE\MinGW\mingw32\bin\ar.exe qc libuntitled.a  CMakeFiles/untitled.dir/library.cpp.obj
+D:\Alp\Programlar\C_C++_IDE\MinGW\mingw32\bin\ranlib.exe libuntitled.a

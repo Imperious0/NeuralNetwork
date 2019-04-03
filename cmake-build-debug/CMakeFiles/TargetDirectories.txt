@@ -1,0 +1,3 @@
+D:/Alp/C++ Alan/cmake-build-debug/CMakeFiles/C___Alan.dir
+D:/Alp/C++ Alan/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Alp/C++ Alan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

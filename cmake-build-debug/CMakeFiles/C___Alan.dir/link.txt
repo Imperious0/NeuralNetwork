@@ -1,0 +1,3 @@
+"D:\Alp\Programlar\C_C++_IDE\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\C___Alan.dir/objects.a
+D:\Alp\Programlar\C_C++_IDE\MinGW\mingw32\bin\ar.exe cr CMakeFiles\C___Alan.dir/objects.a @CMakeFiles\C___Alan.dir\objects1.rsp
+D:\Alp\Programlar\C_C++_IDE\MinGW\mingw32\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\C___Alan.dir/objects.a -Wl,--no-whole-archive  -o C___Alan.exe -Wl,--out-implib,libC___Alan.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\C___Alan.dir\linklibs.rsp
